@@ -1,7 +1,7 @@
 # <h1 align="center">👋 Olá, eu sou o João Edson</h1>
 
 <p align="center">
-  Desenvolvedor Front-end em constante evolução 🚀 <br />
+  Desenvolvedor Full-stack em constante evolução 🚀 <br />
   Apaixonado por transformar ideias em interfaces intuitivas e funcionais
 </p>
 
